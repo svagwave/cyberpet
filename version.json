@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/svagwave/cyberpet/releases/download/v1.1/app-debug.apk",
-  "changelog": "Добавлены новые роботы и исправлены баги!"
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/svagwave/cyberpet/releases/download/v1.2/app-debug.apk",
+  "changelog": "Добавлена проверка на обновление!"
 }
